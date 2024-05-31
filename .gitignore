@@ -1,0 +1,15 @@
+# Deno
+/.deno
+
+# Compiled TypeScript files
+/**/*.ts.js
+/**/*.ts.js.map
+
+# Deno dependencies
+/deps
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
